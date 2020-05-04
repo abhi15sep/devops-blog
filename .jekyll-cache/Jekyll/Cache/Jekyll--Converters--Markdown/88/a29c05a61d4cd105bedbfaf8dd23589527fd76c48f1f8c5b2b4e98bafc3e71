@@ -1,0 +1,18 @@
+I"�<p>If you want to check the current internet speed of your Linux server from the command-line, you can use a utility called <code class="highlighter-rouge">fast</code> – a minimal zero-dependency script, written in <code class="highlighter-rouge">Go language</code> for testing your internet download speed from the terminal, which is powered by <code class="highlighter-rouge">Fast.com – Netflix</code> and runs on <code class="highlighter-rouge">Linux, Windows</code> and <code class="highlighter-rouge">Mac</code>.</p>
+
+<p>To use, <a href="https://github.com/ddo/fast/releases">download binary file</a> for your architecture (fast_linux_amd64 for 64bit systems) in your home directory, set execute permission and run it directly from the terminal to test your server Internet speed.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>wget https://github.com/ddo/fast/releases/download/v0.0.4/fast_linux_amd64 <span class="nt">-O</span> fast
+<span class="nv">$ </span><span class="nb">chmod</span> +x fast
+<span class="nv">$ </span>./fast
+</code></pre></div></div>
+<p>If you want, you can install it under <code class="highlighter-rouge">/usr/local/bin directory</code> on any Linux distribution by using the following commands.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>wget https://github.com/ddo/fast/releases/download/v0.0.4/fast_linux_amd64 
+<span class="nv">$ </span><span class="nb">sudo install </span>fast_linux_amd64 /usr/local/bin/fast
+<span class="nv">$ </span>fast
+</code></pre></div></div>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+:ET

@@ -1,0 +1,2 @@
+I"<p>If you want to check the current internet speed of your Linux server from the command-line, you can use a utility called <code class="highlighter-rouge">fast</code> – a minimal zero-dependency script, written in <code class="highlighter-rouge">Go language</code> for testing your internet download speed from the terminal, which is powered by <code class="highlighter-rouge">Fast.com – Netflix</code> and runs on <code class="highlighter-rouge">Linux, Windows</code> and <code class="highlighter-rouge">Mac</code>.</p>
+:ET
