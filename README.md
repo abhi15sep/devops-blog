@@ -47,9 +47,9 @@ plainwhite:
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: thelehhman
-    github: thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+    twitter: abhaypratap3536
+    github:  abhi15sep
+    linkedIn: in/abhay-singh-831997b5/ # format: locale/username
 ```
 
 **Updating Placeholder Image**
