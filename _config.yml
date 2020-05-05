@@ -2,7 +2,7 @@ title: Abhay's Blog
 author: Abhay
 email: abhaypratap3536@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Blog to share devops knowledge with world.
+  Blog to share devops knowledge with community. This blog contains content about Devops , infrastructure automation , cloud automation and orchestration, Security and AWS.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 baseurl: /
