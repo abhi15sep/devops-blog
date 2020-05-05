@@ -2,7 +2,7 @@
 
 Simplistic jekyll portfolio-style theme for writers.
 
-**Demo**: [abhi15sep](https://devops-monk.com)
+**Demo**: [abhi15sep](https://blog.devops-monk.com)
 
 ![plainwhite theme preview](/screenshot.png)
 
