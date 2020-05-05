@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Fast – Test Your Internet Download Speed in Linux"
+title:  "Fast – Internet Speed test in Linux"
+description: "Small speed test binary to test your internet download speed in Linux"
 date:   2020-05-04 21:03:36 +0530
 categories: SpeedTest Utility
 ---
