@@ -1,6 +1,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <!-- add description and keywords for SEO -->
+ <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+ {% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}" />
+ {% else %}
+<meta name="keywords" content="your-default-comma-separated-keywords" />
+{% endif %}
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Raleway:400,700" rel="stylesheet">
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 <title>{{ page.title | default: site.title }}</title>
