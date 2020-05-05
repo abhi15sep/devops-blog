@@ -2,7 +2,7 @@
 layout: post
 title:  "Fast – Test Your Internet Download Speed in Linux"
 date:   2020-05-04 21:03:36 +0530
-categories: AWS S3
+categories: SpeedTest Utility
 ---
 If you want to check the current internet speed of your Linux server from the command-line, you can use a utility called `fast` – a minimal zero-dependency script, written in `Go language` for testing your internet download speed from the terminal, which is powered by `Fast.com – Netflix` and runs on `Linux, Windows` and `Mac`.
 
