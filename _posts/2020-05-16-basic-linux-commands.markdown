@@ -22,8 +22,8 @@ $ pwd
 
 2. rm - rm command is used to remove files or directories.
 ```bash
-$ rm file1
-$ rm -rf my-files
+$ rm file1.txt
+$ rm -rf my-folder
 ```
 
 3. scp - scp command enables you to securely copy files between hosts on a network
@@ -38,5 +38,5 @@ $ shutdown --poweroff
 
 5. sleep - sort command is used to sort lines of text in the specified file(s) or from stdin.
 ```bash
-$ sort tecmint.txt
+$ sort sample.txt
 ```
