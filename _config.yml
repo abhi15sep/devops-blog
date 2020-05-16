@@ -15,7 +15,7 @@ plainwhite:
   name: Abhay Pratap Singh
   tagline: Software Developer
   date_format: "%b %-d, %Y"
-  disqus_shortname: blog-devops-monk-com.disqus.com
+  disqus_shortname: blog-devops-monk-com
   analytics_id: "UA-165583281-1"
   sitemap: true # set to true to generate sitemap.xml content
 
